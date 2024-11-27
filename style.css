@@ -1,0 +1,96 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.navbar{
+   background-color: black;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.img {
+    width: 100px;
+}
+.butn{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #908f95;
+}
+.design{
+    color: white;
+    gap: 10px;
+    transition:white 0.3s ease;
+}
+.design:hover{
+    color:rgb(247, 247, 183); 
+}
+.design1{
+    color: black;
+    transition:white 0.3s ease;
+}
+.design1:hover{
+    color:darkcyan; 
+}.design2{
+    color: white;
+    transition:white 0.3s ease;
+}
+.design2:hover{
+    color:darkcyan; 
+}
+.card{
+    box-shadow: 2px 2px 16px black;
+}
+.nav-work{
+    display: flex;
+}
+.main-nav{
+    /* background-color: black; */
+} 
+.img-nav{
+    width: 70px;
+    height: 66px;
+}.details-cl p{
+    /* font-size: 20px;
+    font-weight: 300; */
+    /* width: 100%; */
+}.details-col{
+    text-align: justify;
+
+}
+.card-img-hg{
+    height: 190px;
+}
+.main-footer{
+    color: white;
+}
+.hds-footer-details h3{
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 10px 0px;
+
+}
+.width-fit-content{
+    display: block;
+    width: fit-content;
+}
+.ul-footer li a{
+    text-decoration:none ;
+    color: white;
+}
+.ul-footer{
+    list-style-type: none;
+    padding: 0;
+}
+.ul-footer1 li a{
+    text-decoration:none ;
+    color: white;
+}
+.ul-footer1 li{
+    padding: 7px 0px;
+}
+.ul-footer1{
+    list-style-type: none;
+    padding: 0;
+}
